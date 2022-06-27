@@ -22,8 +22,6 @@ import os #for listing file
 
 
 # Variables initiales
-
-
 app_name = "ADP"
 workspace = "C:/Apps/"+app_name+"/"
 download_folder = "C:\\Apps\\"+app_name
