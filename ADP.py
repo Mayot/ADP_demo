@@ -35,9 +35,6 @@ username = os.getenv('ADP_user', default=None)
 pwd = os.getenv('ADP_pwd', default=None)
 
 
-
-
-
 # Début du programme 
 
 
