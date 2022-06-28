@@ -30,9 +30,7 @@ with open(workspace+'credentials.txt') as f:
 
 
 # Variables à modifier
-#url = os.getenv('url', default=None)
 url = 'https://hr-services.fr.adp.com/portal-main/portal/#/home'
-url = "https://hr-services.fr.adp.com/login/?TARGET=-SM-https%3a%2f%2fhr--services%2efr%2eadp%2ecom%2f_index%2fportal--main%2fportal%2f#/home"
 username = os.getenv('ADP_user', default=None)
 username = myCred[0]
 pwd = os.getenv('ADP_pwd', default=None)
